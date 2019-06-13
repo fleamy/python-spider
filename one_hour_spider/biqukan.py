@@ -85,3 +85,6 @@ if __name__ == "__main__":
 		sys.stdout.write("  已下载:%.3f%%" %  float(i/dl.nums*100) + '\r')
 		sys.stdout.flush()
 	print('《一年永恒》下载完成')
+
+	
+	
